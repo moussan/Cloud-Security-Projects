@@ -100,5 +100,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## Contact
 For inquiries or support, reach out to:
 - **Author**: Moussa El Najmi
-- **Email**: moussan@example.com
+- **Email**: moussan@gmail.com
 - **GitHub**: [moussan](https://github.com/moussan)
